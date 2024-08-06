@@ -12,5 +12,12 @@ Coming soon
 <img src="https://github.com/user-attachments/assets/5fac216f-447f-46c7-8567-16fcd1b9ba65" width="400">
 <img src="https://github.com/user-attachments/assets/2807d8da-1c51-427e-964c-7f895e6ced0f" width="400">
 
+Note: Most assets such as sprites and music are still placeholder, It will be replaced in v1.0.0.
+
+## Credits
+- [World Tileset](https://kenney.nl/assets/tiny-battle) by KenneyNL
+- [Knight](https://rgsdev.itch.io/pixel-art-animated-knight-character-pack-rgsdev) by RGS_Dev
+- [UI Graphics](https://assetstore.unity.com/packages/2d/gui/icons/simple-free-pixel-art-styled-ui-pack-165012) by Jakub Varga
+
 ## Developers
 - Meervix (Emyr298)
